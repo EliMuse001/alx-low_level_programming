@@ -1,0 +1,1 @@
+The functions to operate pointers and arrays in a program
