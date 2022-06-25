@@ -15,5 +15,5 @@ for (i = 0; i < n; i++)
 
 return (s);
 }
-© 2022 GitHub, Inc.
+
 
