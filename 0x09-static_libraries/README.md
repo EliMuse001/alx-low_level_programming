@@ -1,1 +1,1 @@
-All Static Library creating tasks!
+Readme for static libraries
